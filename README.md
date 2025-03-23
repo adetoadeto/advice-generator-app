@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://your-solution-url.com)
-- Live Site URL: (https://your-live-site-url.com)
+- Solution URL: (https://github.com/adetoadeto/advice-generator-app)
+- Live Site URL: (https://adetoadeto.github.io/advice-generator-app/)
 
 ## My process
 

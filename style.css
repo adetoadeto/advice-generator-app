@@ -34,8 +34,8 @@ body {
 
 .container {
     margin: 4rem;
-    max-width: 400px;
-    height: 300px;
+    width: 350px;
+    height: 350px;
     background-color: var(--dark-grayish-blue);   
     padding: 0 2rem 2rem 2rem;
     border-radius: 0.5rem;
